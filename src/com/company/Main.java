@@ -8,7 +8,7 @@ public class Main {
 		System.out.println("*Do*");
 		System.out.println("*worry*");
 		System.out.println("*be*");
-		System.out.println("*happy*");
+		System.out.println("*321*");
 	}
 }
 
